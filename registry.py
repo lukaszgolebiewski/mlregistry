@@ -11,7 +11,7 @@ RESOURCE_GROUP = "lukasztest"
 WORKSPACE_NAME = "lukasztest"
 REGISTRY_NAME = "lukaszTest"
 
-MODEL_NAME = "my-model"
+MODEL_NAME = "lukasz-model"
 MODEL_PATH = "./model"   # local folder or file
 
 ENDPOINT_NAME = "sku_manyquantilesv4AutoNBEATSx"
