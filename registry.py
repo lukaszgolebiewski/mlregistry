@@ -14,7 +14,7 @@ REGISTRY_NAME = "lukaszTest"
 MODEL_NAME = "my-model"
 MODEL_PATH = "./model"   # local folder or file
 
-ENDPOINT_NAME = "lukasz-endpoint"
+ENDPOINT_NAME = "sku_manyquantiles-v4_AutoNBEATSx_"
 DEPLOYMENT_NAME = "blue"
 
 # =========================
