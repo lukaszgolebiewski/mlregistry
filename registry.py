@@ -6,15 +6,15 @@ from azure.ai.ml.constants import AssetTypes
 # =========================
 # CONFIGURATION
 # =========================
-SUBSCRIPTION_ID = "<subscription-id>"
-RESOURCE_GROUP = "<resource-group>"
-WORKSPACE_NAME = "<workspace-name>"
-REGISTRY_NAME = "<registry-name>"
+SUBSCRIPTION_ID = "a05d42ef-e511-4033-9ece-d4ea89bcd987"
+RESOURCE_GROUP = "lukasztest"
+WORKSPACE_NAME = "lukasztest"
+REGISTRY_NAME = "lukaszTest"
 
 MODEL_NAME = "my-model"
 MODEL_PATH = "./model"   # local folder or file
 
-ENDPOINT_NAME = "my-endpoint"
+ENDPOINT_NAME = "lukasz-endpoint"
 DEPLOYMENT_NAME = "blue"
 
 # =========================
